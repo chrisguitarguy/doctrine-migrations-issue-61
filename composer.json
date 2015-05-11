@@ -1,0 +1,7 @@
+{
+    "require": {
+        "doctrine/migrations": "1.0.0-alpha3",
+        "symfony/console": "~2.6",
+        "symfony/yaml": "~2.6"
+    }
+}
